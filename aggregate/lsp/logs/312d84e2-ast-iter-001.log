@@ -1,0 +1,7 @@
+[2026-04-09T20:03:19Z] === AST ITERATION 1 START | repo=remithomas/eslint-plugin-ban sha=312d84e2 ===
+[2026-04-09T20:03:19Z] [iter=1] PHASE START: ast repo=remithomas/eslint-plugin-ban sha=312d84e2
+[2026-04-09T20:03:19Z] [iter=1] Building AST aggregate chunks
+[2026-04-09T20:03:20Z] [iter=1] AST chunks built count=1 triples=9554
+[2026-04-09T20:03:20Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/312d84e2c6b18df2ddfeef7ae6f4f4af4bee4e31/.complete
+[2026-04-09T20:03:20Z] [iter=1] PHASE END: ast elapsed_s=1 elapsed_min=0.0
+[2026-04-09T20:03:20Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
