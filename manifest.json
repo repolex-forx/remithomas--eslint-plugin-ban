@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "remithomas",
+  "repo": "eslint-plugin-ban",
+  "versions": [
+    {
+      "commit": "312d84e2c6b18df2ddfeef7ae6f4f4af4bee4e31",
+      "parsed_at": "2026-04-09T19:56:39.379109+00:00",
+      "tag": "v2.0.0",
+      "filetree": "filetree/312d84e2c6b18df2ddfeef7ae6f4f4af4bee4e31.nq.gz",
+      "blobs": [
+        "blob/3695c2b85bab2337ab8ea63381f77746a91e6bc5.nq.gz",
+        "blob/91cc34331df630f330f04bcf547bbd2b226982dc.nq.gz",
+        "blob/ae1f89f7c5ef3ad7303ec13c6d80f9e7080ae52d.nq.gz",
+        "blob/5c42eede2c6c092878094644925a2d50d17de871.nq.gz",
+        "blob/812b064b6d5db77eaeedbbbbfb2eea98b644a1b8.nq.gz",
+        "blob/779f99a12b5c71692ad6d6908d6d2fc3bdba485d.nq.gz",
+        "blob/62165190346dbb524cdf073a96e9e3f4feedfc74.nq.gz",
+        "blob/eecc2c3967e36b72bf2cf87a1ea2901d38acc6af.nq.gz",
+        "blob/2166dc5cf0eb0977f8f729b94cd7140eeaf5ee96.nq.gz",
+        "blob/fbb6811c77672312bd98005dd9bd21134d1c9999.nq.gz",
+        "blob/3abb837bea8385d89c8fa6f428f809d011c30e29.nq.gz",
+        "blob/c6a703d6720a52686e4143d06f5a6024b776fcb7.nq.gz",
+        "blob/7d1c138e2d89ee5e731f4239b46153009c9072ff.nq.gz",
+        "blob/0a725205c885956a06a70bd9ab7552f9eb164dd1.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
